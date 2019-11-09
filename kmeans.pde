@@ -1,5 +1,6 @@
 // k-means clustering demo
-// dan@marginallyclever.com
+// 2019-11-09 dan@marginallyclever.com
+// CC-BY-NC-SA
 
 
 // CONSTANTS
